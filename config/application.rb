@@ -27,5 +27,7 @@ module WebpackerLatest
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+
+    Webpacker::Compiler.watched_paths << 'app/assets'
   end
 end

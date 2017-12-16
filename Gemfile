@@ -7,4 +7,4 @@ end
 
 gem 'rails', '~> 5.1.4'
 gem 'puma', '~> 3.7'
-gem 'webpacker', path: '/Volumes/MacintoshHD/Users/gaurav/contributions/rails-contri/webpacker'
+gem 'webpacker'
